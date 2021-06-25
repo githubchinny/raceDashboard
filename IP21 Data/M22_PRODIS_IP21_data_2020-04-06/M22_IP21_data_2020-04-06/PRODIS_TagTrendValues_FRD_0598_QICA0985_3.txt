@@ -1,0 +1,25 @@
+﻿Name;IP_Description;IP_TREND_TIME;IP_TREND_VALUE;IP_TREND_QLEVEL;IP_TREND_QSTATUS;HISTSEQNUM
+FRD_0598_QICA0985_3;Aktuelle Arbeitsplatzkonzentration;06-APR-21 00:35:05.0;-0,01844618;Good;Good;19469379
+FRD_0598_QICA0985_3;Aktuelle Arbeitsplatzkonzentration;06-APR-21 01:35:04.0;-0,01555266;Good;Good;19469380
+FRD_0598_QICA0985_3;Aktuelle Arbeitsplatzkonzentration;06-APR-21 02:35:03.8;-0,01953125;Good;Good;19469381
+FRD_0598_QICA0985_3;Aktuelle Arbeitsplatzkonzentration;06-APR-21 03:35:03.6;-0,01663773;Good;Good;19469382
+FRD_0598_QICA0985_3;Aktuelle Arbeitsplatzkonzentration;06-APR-21 04:35:03.1;-0,01916956;Good;Good;19469383
+FRD_0598_QICA0985_3;Aktuelle Arbeitsplatzkonzentration;06-APR-21 05:35:02.9;-0,01519097;Good;Good;19469384
+FRD_0598_QICA0985_3;Aktuelle Arbeitsplatzkonzentration;06-APR-21 06:35:02.3;-0,01808449;Good;Good;19469385
+FRD_0598_QICA0985_3;Aktuelle Arbeitsplatzkonzentration;06-APR-21 07:35:01.8;-0,01627604;Good;Good;19469386
+FRD_0598_QICA0985_3;Aktuelle Arbeitsplatzkonzentration;06-APR-21 08:35:01.3;-0,01591435;Good;Good;19469387
+FRD_0598_QICA0985_3;Aktuelle Arbeitsplatzkonzentration;06-APR-21 09:35:01.2;-0,01555266;Good;Good;19469388
+FRD_0598_QICA0985_3;Aktuelle Arbeitsplatzkonzentration;06-APR-21 10:35:00.2;-0,01482928;Good;Good;19469389
+FRD_0598_QICA0985_3;Aktuelle Arbeitsplatzkonzentration;06-APR-21 11:34:59.5;-0,01989294;Good;Good;19469390
+FRD_0598_QICA0985_3;Aktuelle Arbeitsplatzkonzentration;06-APR-21 12:34:59.2;-0,01519097;Good;Good;19469391
+FRD_0598_QICA0985_3;Aktuelle Arbeitsplatzkonzentration;06-APR-21 13:34:59.1;-0,01736111;Good;Good;19469392
+FRD_0598_QICA0985_3;Aktuelle Arbeitsplatzkonzentration;06-APR-21 14:34:58.1;-0,01736111;Good;Good;19469393
+FRD_0598_QICA0985_3;Aktuelle Arbeitsplatzkonzentration;06-APR-21 15:34:57.4;-0,01953125;Good;Good;19469394
+FRD_0598_QICA0985_3;Aktuelle Arbeitsplatzkonzentration;06-APR-21 16:34:57.2;-0,01880787;Good;Good;19469395
+FRD_0598_QICA0985_3;Aktuelle Arbeitsplatzkonzentration;06-APR-21 17:34:56.9;-0,01699942;Good;Good;19469396
+FRD_0598_QICA0985_3;Aktuelle Arbeitsplatzkonzentration;06-APR-21 18:34:56.2;-0,01591435;Good;Good;19469397
+FRD_0598_QICA0985_3;Aktuelle Arbeitsplatzkonzentration;06-APR-21 19:34:56.1;-0,01591435;Good;Good;19469398
+FRD_0598_QICA0985_3;Aktuelle Arbeitsplatzkonzentration;06-APR-21 20:34:55.9;-0,01555266;Good;Good;19469399
+FRD_0598_QICA0985_3;Aktuelle Arbeitsplatzkonzentration;06-APR-21 21:34:55.4;-0,01808449;Good;Good;19469400
+FRD_0598_QICA0985_3;Aktuelle Arbeitsplatzkonzentration;06-APR-21 22:34:54.5;-0,0177228;Good;Good;19469401
+FRD_0598_QICA0985_3;Aktuelle Arbeitsplatzkonzentration;06-APR-21 23:34:54.2;-0,01736111;Good;Good;19469402

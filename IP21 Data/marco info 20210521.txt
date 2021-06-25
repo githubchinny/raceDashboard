@@ -1,0 +1,48 @@
+Select Name,
+       AVG,
+       TS
+From AGGREGATES
+Where TS Between '21-May-21 15:00:00.0' and '21-May-21 23:59:59.9'
+AND Name like 'FRD_0593_PDIR0386_7'
+
+
+
+Jager, Sven /DE
+
+
+Select Name,
+       VALUE
+From HISTORY
+Where TS Between '21-May-21 15:00:00.0' and '21-May-21 23:59:59.9'
+AND Name like 'FRD_0593_PDIR0386_7'
+
+
+
+http://qlikview-ia.pharma.aventis.com/QvAJAXZfc/opendoc.htm?document=F2S%2FVIS_PRODIS_IP21_Structure.qvw&host=QVS%40Cluster
+
+
+
+
+Select "IO_VALUE_RECORD&&FLD"->IP_Plant_Area Plant_Area Break Skip 1,
+       Name,
+       IO_TAGNAME OPCTag,
+       "IO_VALUE_RECORD&&FLD"->Name IP21Tag,
+       "IO_VALUE_RECORD&&FLD"->IP_Description IP21TagDesc width 45,
+       IO_DATA_STATUS,
+       IO_DATA_STATUS_DESC
+From IOLongTagGetDef
+Where IO_MAIN_TASK like '%PRODIS1B%'
+      --Plant_Area = 'EMA20'
+	--OPCTag like 'SFBOPG3OPC\%'
+Order By Plant_Area, Name, OPCTag, IO_DATA_STATUS desc
+
+
+
+
+Select Name,
+       IP_INPUT_VALUE
+From FRD_0595_PDIA0908_1
+
+
+
+OLEDB CONNECT32 TO [Provider=MSDASQL.1;Persist Security Info=False;Extended Properties="DRIVER={AspenTech SQLplus};HOST=frascluprodisp2;PORT=10014"]

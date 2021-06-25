@@ -1,0 +1,27 @@
+﻿Name;IP_Description;IP_TREND_TIME;IP_TREND_VALUE;IP_TREND_QLEVEL;IP_TREND_QSTATUS;HISTSEQNUM
+FRD_0586_STAT_Ster_ZW_K;Status Steril Zwischenstück Kappen;06-APR-21 00:36:08.4;1;Good;Good;116211
+FRD_0586_STAT_Ster_ZW_K;Status Steril Zwischenstück Kappen;06-APR-21 01:36:08.4;1;Good;Good;116212
+FRD_0586_STAT_Ster_ZW_K;Status Steril Zwischenstück Kappen;06-APR-21 02:36:08.2;1;Good;Good;116213
+FRD_0586_STAT_Ster_ZW_K;Status Steril Zwischenstück Kappen;06-APR-21 03:36:08.1;1;Good;Good;116214
+FRD_0586_STAT_Ster_ZW_K;Status Steril Zwischenstück Kappen;06-APR-21 04:36:07.5;1;Good;Good;116215
+FRD_0586_STAT_Ster_ZW_K;Status Steril Zwischenstück Kappen;06-APR-21 05:36:07.3;1;Good;Good;116216
+FRD_0586_STAT_Ster_ZW_K;Status Steril Zwischenstück Kappen;06-APR-21 06:36:07.0;1;Good;Good;116217
+FRD_0586_STAT_Ster_ZW_K;Status Steril Zwischenstück Kappen;06-APR-21 07:36:06.3;1;Good;Good;116218
+FRD_0586_STAT_Ster_ZW_K;Status Steril Zwischenstück Kappen;06-APR-21 08:36:05.6;1;Good;Good;116219
+FRD_0586_STAT_Ster_ZW_K;Status Steril Zwischenstück Kappen;06-APR-21 09:36:04.6;1;Good;Good;116220
+FRD_0586_STAT_Ster_ZW_K;Status Steril Zwischenstück Kappen;06-APR-21 10:36:03.7;1;Good;Good;116221
+FRD_0586_STAT_Ster_ZW_K;Status Steril Zwischenstück Kappen;06-APR-21 11:36:02.9;1;Good;Good;116222
+FRD_0586_STAT_Ster_ZW_K;Status Steril Zwischenstück Kappen;06-APR-21 12:36:02.5;1;Good;Good;116223
+FRD_0586_STAT_Ster_ZW_K;Status Steril Zwischenstück Kappen;06-APR-21 13:36:01.8;1;Good;Good;116224
+FRD_0586_STAT_Ster_ZW_K;Status Steril Zwischenstück Kappen;06-APR-21 14:36:01.5;1;Good;Good;116225
+FRD_0586_STAT_Ster_ZW_K;Status Steril Zwischenstück Kappen;06-APR-21 15:36:00.7;1;Good;Good;116226
+FRD_0586_STAT_Ster_ZW_K;Status Steril Zwischenstück Kappen;06-APR-21 16:36:00.5;1;Good;Good;116227
+FRD_0586_STAT_Ster_ZW_K;Status Steril Zwischenstück Kappen;06-APR-21 17:36:00.2;1;Good;Good;116228
+FRD_0586_STAT_Ster_ZW_K;Status Steril Zwischenstück Kappen;06-APR-21 18:35:59.7;1;Good;Good;116229
+FRD_0586_STAT_Ster_ZW_K;Status Steril Zwischenstück Kappen;06-APR-21 19:35:59.6;1;Good;Good;116230
+FRD_0586_STAT_Ster_ZW_K;Status Steril Zwischenstück Kappen;06-APR-21 20:35:59.5;1;Good;Good;116231
+FRD_0586_STAT_Ster_ZW_K;Status Steril Zwischenstück Kappen;06-APR-21 21:35:59.3;1;Good;Good;116232
+FRD_0586_STAT_Ster_ZW_K;Status Steril Zwischenstück Kappen;06-APR-21 22:35:58.4;1;Good;Good;116233
+FRD_0586_STAT_Ster_ZW_K;Status Steril Zwischenstück Kappen;06-APR-21 22:37:30.7;0;Good;Good;116234
+FRD_0586_STAT_Ster_ZW_K;Status Steril Zwischenstück Kappen;06-APR-21 23:37:30.0;0;Good;Good;116235
+FRD_0586_STAT_Ster_ZW_K;Status Steril Zwischenstück Kappen;06-APR-21 23:39:40.2;1;Good;Good;116236

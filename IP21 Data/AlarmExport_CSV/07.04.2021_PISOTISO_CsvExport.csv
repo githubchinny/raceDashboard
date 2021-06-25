@@ -1,0 +1,22 @@
+﻿16:28.2,ACK      ,ALM-IDD-2-O-IsoAlarm461,OM003 Isolator 2 kontaminiert,PTISO,DSC   ,OFF,ON,1,DSC  ,134.81.224.83:134.81.224.84\InTouch,,,,                 ,0,0,,16:28.2,2380,,91464
+16:28.2,ACK_RTN  ,ALM-IDD-2-O-IsoAlarm461,OM003 Isolator 2 kontaminiert,PTISO,DSC   ,OFF,ON,1,DSC  ,134.81.224.83:134.81.224.84\InTouch,,,,333388,0,0,,16:28.2,2380,,91464
+16:45.2,UNACK_ALM,ALM-IDD-2-O-IsoAlarm459,OL023 Lecktest nicht bestanden Isolator 2,PTISO,DSC   ,ON,ON,1,DSC  ,134.81.224.83:134.81.224.84\InTouch,e0426045,pharma,"Kuecuekyavuz, Ferhat /DE",                 ,0,0,,16:45.2,2380,FRAM29294,91466
+16:45.2,UNACK_ALM,ALM-IDD-2-O-IsoAlarm460,OM617 Abbruch Biodekontamination Isolator 2,PTISO,DSC   ,ON,ON,1,DSC  ,134.81.224.83:134.81.224.84\InTouch,e0426045,pharma,"Kuecuekyavuz, Ferhat /DE",                 ,0,0,,16:45.2,2380,FRAM29294,91465
+17:12.2,UNACK_ALM,ALM-IDD-2-O-IsoAlarm321,OA006 Schutztüre Transfercontainer nicht verriegelt,PTISO,DSC   ,ON,ON,1,DSC  ,134.81.224.83:134.81.224.84\InTouch,e0426045,pharma,"Kuecuekyavuz, Ferhat /DE",                 ,0,0,,17:12.2,2390,FRAM29294,91467
+18:03.2,UNACK_ALM,ALM-IDD-2-O-IsoAlarm461,OM003 Isolator 2 kontaminiert,PTISO,DSC   ,ON,ON,1,DSC  ,134.81.224.83:134.81.224.84\InTouch,e0426045,pharma,"Kuecuekyavuz, Ferhat /DE",                 ,0,0,,18:03.2,2460,FRAM29294,91468
+18:07.3,ACK      ,ALM-IDD-2-O-IsoAlarm321,OA006 Schutztüre Transfercontainer nicht verriegelt,PTISO,DSC   ,OFF,ON,1,DSC  ,134.81.224.83:134.81.224.84\InTouch,,,,                 ,0,0,,18:07.3,2650,,91467
+18:07.3,ACK_RTN  ,ALM-IDD-2-O-IsoAlarm321,OA006 Schutztüre Transfercontainer nicht verriegelt,PTISO,DSC   ,OFF,ON,1,DSC  ,134.81.224.83:134.81.224.84\InTouch,,,,55,0,0,,18:07.3,2650,,91467
+18:07.3,ACK      ,ALM-IDD-2-O-IsoAlarm459,OL023 Lecktest nicht bestanden Isolator 2,PTISO,DSC   ,OFF,ON,1,DSC  ,134.81.224.83:134.81.224.84\InTouch,,,,                 ,0,0,,18:07.3,2650,,91466
+18:07.3,ACK_RTN  ,ALM-IDD-2-O-IsoAlarm459,OL023 Lecktest nicht bestanden Isolator 2,PTISO,DSC   ,OFF,ON,1,DSC  ,134.81.224.83:134.81.224.84\InTouch,,,,82,0,0,,18:07.3,2650,,91466
+18:07.3,ACK      ,ALM-IDD-2-O-IsoAlarm460,OM617 Abbruch Biodekontamination Isolator 2,PTISO,DSC   ,OFF,ON,1,DSC  ,134.81.224.83:134.81.224.84\InTouch,,,,                 ,0,0,,18:07.3,2650,,91465
+18:07.3,ACK_RTN  ,ALM-IDD-2-O-IsoAlarm460,OM617 Abbruch Biodekontamination Isolator 2,PTISO,DSC   ,OFF,ON,1,DSC  ,134.81.224.83:134.81.224.84\InTouch,,,,82,0,0,,18:07.3,2650,,91465
+18:12.3,ACK      ,ALM-IDD-2-O-IsoAlarm461,OM003 Isolator 2 kontaminiert,PTISO,DSC   ,OFF,ON,1,DSC  ,134.81.224.83:134.81.224.84\InTouch,,,,                 ,0,0,,18:12.3,2650,,91468
+18:12.3,ACK_RTN  ,ALM-IDD-2-O-IsoAlarm461,OM003 Isolator 2 kontaminiert,PTISO,DSC   ,OFF,ON,1,DSC  ,134.81.224.83:134.81.224.84\InTouch,,,,9,0,0,,18:12.3,2650,,91468
+17:34.3,UNACK_ALM,ALM-IDD-2-O-IsoAlarm462,OM617 Biodekontamination erfolgreich beendet Isolator 2,PTISO,DSC   ,ON,ON,400,DSC  ,134.81.224.83:134.81.224.84\InTouch,None,,,                 ,0,0,,17:34.3,2800,FRAM29294,91469
+50:29.3,UNACK_ALM,ALM-IDD-2-O-IsoAlarm463,OF080 Warnung Unterdruck Isolator 2,PTISO,DSC   ,ON,ON,1,DSC  ,134.81.224.83:134.81.224.84\InTouch,None,,,                 ,0,0,,50:29.3,2960,FRAM29294,91470
+50:30.3,ACK      ,ALM-IDD-2-O-IsoAlarm463,OF080 Warnung Unterdruck Isolator 2,PTISO,DSC   ,OFF,ON,1,DSC  ,134.81.224.83:134.81.224.84\InTouch,,,,                 ,0,0,,50:30.3,2960,,91470
+50:30.3,ACK_RTN  ,ALM-IDD-2-O-IsoAlarm463,OF080 Warnung Unterdruck Isolator 2,PTISO,DSC   ,OFF,ON,1,DSC  ,134.81.224.83:134.81.224.84\InTouch,,,,1,0,0,,50:30.3,2960,,91470
+53:24.3,ACK      ,ALM-IDD-2-O-IsoAlarm462,OM617 Biodekontamination erfolgreich beendet Isolator 2,PTISO,DSC   ,OFF,ON,400,DSC  ,134.81.224.83:134.81.224.84\InTouch,,,,                 ,0,0,,53:24.3,3190,,91469
+53:24.3,ACK_RTN  ,ALM-IDD-2-O-IsoAlarm462,OM617 Biodekontamination erfolgreich beendet Isolator 2,PTISO,DSC   ,OFF,ON,400,DSC  ,134.81.224.83:134.81.224.84\InTouch,,,,9350,0,0,,53:24.3,3190,,91469
+56:30.3,UNACK_ALM,ALM-IDD-2-O-IsoAlarm461,OM003 Isolator 2 kontaminiert,PTISO,DSC   ,ON,ON,1,DSC  ,134.81.224.83:134.81.224.84\InTouch,de010194,pharma,"Paczko, Damian /DE",                 ,0,0,,56:30.3,3490,FRAM29294,91471
+23:32.4,UNACK_ALM,ALM-IDD-2-O-IsoAlarm321,OA006 Schutztüre Transfercontainer nicht verriegelt,PTISO,DSC   ,ON,ON,1,DSC  ,134.81.224.83:134.81.224.84\InTouch,None,,,                 ,0,0,,23:32.4,3530,FRAM29294,91472

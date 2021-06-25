@@ -1,0 +1,25 @@
+﻿Name;IP_Description;IP_TREND_TIME;IP_TREND_VALUE;IP_TREND_QLEVEL;IP_TREND_QSTATUS;HISTSEQNUM
+FRD_0596_CapRubHight;Dichtscheibenüberstand;06-APR-21 00:16:29.3;1;Good;Good;179934
+FRD_0596_CapRubHight;Dichtscheibenüberstand;06-APR-21 01:16:28.9;1;Good;Good;179935
+FRD_0596_CapRubHight;Dichtscheibenüberstand;06-APR-21 02:16:28.6;1;Good;Good;179936
+FRD_0596_CapRubHight;Dichtscheibenüberstand;06-APR-21 03:16:28.2;1;Good;Good;179937
+FRD_0596_CapRubHight;Dichtscheibenüberstand;06-APR-21 04:16:27.6;1;Good;Good;179938
+FRD_0596_CapRubHight;Dichtscheibenüberstand;06-APR-21 05:16:27.4;1;Good;Good;179939
+FRD_0596_CapRubHight;Dichtscheibenüberstand;06-APR-21 06:16:27.1;1;Good;Good;179940
+FRD_0596_CapRubHight;Dichtscheibenüberstand;06-APR-21 07:16:26.3;1;Good;Good;179941
+FRD_0596_CapRubHight;Dichtscheibenüberstand;06-APR-21 08:16:26.1;1;Good;Good;179942
+FRD_0596_CapRubHight;Dichtscheibenüberstand;06-APR-21 09:16:25.9;1;Good;Good;179943
+FRD_0596_CapRubHight;Dichtscheibenüberstand;06-APR-21 10:16:24.9;1;Good;Good;179944
+FRD_0596_CapRubHight;Dichtscheibenüberstand;06-APR-21 11:16:24.1;1;Good;Good;179945
+FRD_0596_CapRubHight;Dichtscheibenüberstand;06-APR-21 12:16:23.3;1;Good;Good;179946
+FRD_0596_CapRubHight;Dichtscheibenüberstand;06-APR-21 13:04:19.4;0;Good;Good;179947
+FRD_0596_CapRubHight;Dichtscheibenüberstand;06-APR-21 14:04:18.7;0;Good;Good;179948
+FRD_0596_CapRubHight;Dichtscheibenüberstand;06-APR-21 15:04:17.7;0;Good;Good;179949
+FRD_0596_CapRubHight;Dichtscheibenüberstand;06-APR-21 16:04:16.9;0;Good;Good;179950
+FRD_0596_CapRubHight;Dichtscheibenüberstand;06-APR-21 17:04:16.1;0;Good;Good;179951
+FRD_0596_CapRubHight;Dichtscheibenüberstand;06-APR-21 18:04:16.0;0;Good;Good;179952
+FRD_0596_CapRubHight;Dichtscheibenüberstand;06-APR-21 19:04:15.4;0;Good;Good;179953
+FRD_0596_CapRubHight;Dichtscheibenüberstand;06-APR-21 20:04:14.9;0;Good;Good;179954
+FRD_0596_CapRubHight;Dichtscheibenüberstand;06-APR-21 21:04:14.6;0;Good;Good;179955
+FRD_0596_CapRubHight;Dichtscheibenüberstand;06-APR-21 22:04:14.2;0;Good;Good;179956
+FRD_0596_CapRubHight;Dichtscheibenüberstand;06-APR-21 23:04:13.9;0;Good;Good;179957

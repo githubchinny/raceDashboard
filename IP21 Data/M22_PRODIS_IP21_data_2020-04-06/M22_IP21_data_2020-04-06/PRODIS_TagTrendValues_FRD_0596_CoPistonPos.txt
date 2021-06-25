@@ -1,0 +1,25 @@
+﻿Name;IP_Description;IP_TREND_TIME;IP_TREND_VALUE;IP_TREND_QLEVEL;IP_TREND_QSTATUS;HISTSEQNUM
+FRD_0596_CoPistonPos;Stopfenposition;06-APR-21 00:43:57.1;1;Good;Good;118778
+FRD_0596_CoPistonPos;Stopfenposition;06-APR-21 01:43:56.8;1;Good;Good;118779
+FRD_0596_CoPistonPos;Stopfenposition;06-APR-21 02:43:56.6;1;Good;Good;118780
+FRD_0596_CoPistonPos;Stopfenposition;06-APR-21 03:43:56.5;1;Good;Good;118781
+FRD_0596_CoPistonPos;Stopfenposition;06-APR-21 04:43:56.1;1;Good;Good;118782
+FRD_0596_CoPistonPos;Stopfenposition;06-APR-21 05:43:55.7;1;Good;Good;118783
+FRD_0596_CoPistonPos;Stopfenposition;06-APR-21 06:43:55.1;1;Good;Good;118784
+FRD_0596_CoPistonPos;Stopfenposition;06-APR-21 07:43:54.5;1;Good;Good;118785
+FRD_0596_CoPistonPos;Stopfenposition;06-APR-21 08:43:54.1;1;Good;Good;118786
+FRD_0596_CoPistonPos;Stopfenposition;06-APR-21 09:43:53.5;1;Good;Good;118787
+FRD_0596_CoPistonPos;Stopfenposition;06-APR-21 10:43:53.0;1;Good;Good;118788
+FRD_0596_CoPistonPos;Stopfenposition;06-APR-21 11:43:52.2;1;Good;Good;118789
+FRD_0596_CoPistonPos;Stopfenposition;06-APR-21 12:43:51.5;1;Good;Good;118790
+FRD_0596_CoPistonPos;Stopfenposition;06-APR-21 13:04:19.4;0;Good;Good;118791
+FRD_0596_CoPistonPos;Stopfenposition;06-APR-21 14:04:18.7;0;Good;Good;118792
+FRD_0596_CoPistonPos;Stopfenposition;06-APR-21 15:04:17.7;0;Good;Good;118793
+FRD_0596_CoPistonPos;Stopfenposition;06-APR-21 16:04:16.9;0;Good;Good;118794
+FRD_0596_CoPistonPos;Stopfenposition;06-APR-21 17:04:16.1;0;Good;Good;118795
+FRD_0596_CoPistonPos;Stopfenposition;06-APR-21 18:04:16.0;0;Good;Good;118796
+FRD_0596_CoPistonPos;Stopfenposition;06-APR-21 19:04:15.4;0;Good;Good;118797
+FRD_0596_CoPistonPos;Stopfenposition;06-APR-21 20:04:14.9;0;Good;Good;118798
+FRD_0596_CoPistonPos;Stopfenposition;06-APR-21 21:04:14.6;0;Good;Good;118799
+FRD_0596_CoPistonPos;Stopfenposition;06-APR-21 22:04:14.2;0;Good;Good;118800
+FRD_0596_CoPistonPos;Stopfenposition;06-APR-21 23:04:13.9;0;Good;Good;118801

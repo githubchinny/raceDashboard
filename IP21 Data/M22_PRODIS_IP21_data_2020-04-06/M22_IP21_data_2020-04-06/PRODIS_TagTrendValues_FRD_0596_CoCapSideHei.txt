@@ -1,0 +1,25 @@
+﻿Name;IP_Description;IP_TREND_TIME;IP_TREND_VALUE;IP_TREND_QLEVEL;IP_TREND_QSTATUS;HISTSEQNUM
+FRD_0596_CoCapSideHei;Kappenhöhe seitlich;06-APR-21 00:53:09.6;3;Good;Good;1098503
+FRD_0596_CoCapSideHei;Kappenhöhe seitlich;06-APR-21 01:53:09.1;3;Good;Good;1098504
+FRD_0596_CoCapSideHei;Kappenhöhe seitlich;06-APR-21 02:53:08.8;3;Good;Good;1098505
+FRD_0596_CoCapSideHei;Kappenhöhe seitlich;06-APR-21 03:53:07.9;3;Good;Good;1098506
+FRD_0596_CoCapSideHei;Kappenhöhe seitlich;06-APR-21 04:53:07.5;3;Good;Good;1098507
+FRD_0596_CoCapSideHei;Kappenhöhe seitlich;06-APR-21 05:53:07.4;3;Good;Good;1098508
+FRD_0596_CoCapSideHei;Kappenhöhe seitlich;06-APR-21 06:53:06.9;3;Good;Good;1098509
+FRD_0596_CoCapSideHei;Kappenhöhe seitlich;06-APR-21 07:53:06.2;3;Good;Good;1098510
+FRD_0596_CoCapSideHei;Kappenhöhe seitlich;06-APR-21 08:53:05.6;3;Good;Good;1098511
+FRD_0596_CoCapSideHei;Kappenhöhe seitlich;06-APR-21 09:53:04.6;3;Good;Good;1098512
+FRD_0596_CoCapSideHei;Kappenhöhe seitlich;06-APR-21 10:53:04.3;3;Good;Good;1098513
+FRD_0596_CoCapSideHei;Kappenhöhe seitlich;06-APR-21 11:53:03.6;3;Good;Good;1098514
+FRD_0596_CoCapSideHei;Kappenhöhe seitlich;06-APR-21 12:53:02.7;3;Good;Good;1098515
+FRD_0596_CoCapSideHei;Kappenhöhe seitlich;06-APR-21 13:04:19.4;0;Good;Good;1098516
+FRD_0596_CoCapSideHei;Kappenhöhe seitlich;06-APR-21 14:04:18.7;0;Good;Good;1098517
+FRD_0596_CoCapSideHei;Kappenhöhe seitlich;06-APR-21 15:04:17.7;0;Good;Good;1098518
+FRD_0596_CoCapSideHei;Kappenhöhe seitlich;06-APR-21 16:04:16.9;0;Good;Good;1098519
+FRD_0596_CoCapSideHei;Kappenhöhe seitlich;06-APR-21 17:04:16.1;0;Good;Good;1098520
+FRD_0596_CoCapSideHei;Kappenhöhe seitlich;06-APR-21 18:04:16.0;0;Good;Good;1098521
+FRD_0596_CoCapSideHei;Kappenhöhe seitlich;06-APR-21 19:04:15.4;0;Good;Good;1098522
+FRD_0596_CoCapSideHei;Kappenhöhe seitlich;06-APR-21 20:04:14.9;0;Good;Good;1098523
+FRD_0596_CoCapSideHei;Kappenhöhe seitlich;06-APR-21 21:04:14.6;0;Good;Good;1098524
+FRD_0596_CoCapSideHei;Kappenhöhe seitlich;06-APR-21 22:04:14.2;0;Good;Good;1098525
+FRD_0596_CoCapSideHei;Kappenhöhe seitlich;06-APR-21 23:04:13.9;0;Good;Good;1098526

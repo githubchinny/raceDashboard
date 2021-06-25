@@ -1,0 +1,25 @@
+﻿Name;IP_Description;IP_TREND_TIME;IP_TREND_VALUE;IP_TREND_QLEVEL;IP_TREND_QSTATUS;HISTSEQNUM
+FRD_0594_X_Einlaufvib_Ge;Einlaufvib. Geschwindigkeit;06-APR-21 00:39:41.3;57;Good;Good;99186
+FRD_0594_X_Einlaufvib_Ge;Einlaufvib. Geschwindigkeit;06-APR-21 01:39:41.0;57;Good;Good;99187
+FRD_0594_X_Einlaufvib_Ge;Einlaufvib. Geschwindigkeit;06-APR-21 02:39:40.9;57;Good;Good;99188
+FRD_0594_X_Einlaufvib_Ge;Einlaufvib. Geschwindigkeit;06-APR-21 03:39:40.8;57;Good;Good;99189
+FRD_0594_X_Einlaufvib_Ge;Einlaufvib. Geschwindigkeit;06-APR-21 04:39:40.4;57;Good;Good;99190
+FRD_0594_X_Einlaufvib_Ge;Einlaufvib. Geschwindigkeit;06-APR-21 05:39:39.9;57;Good;Good;99191
+FRD_0594_X_Einlaufvib_Ge;Einlaufvib. Geschwindigkeit;06-APR-21 06:39:39.9;57;Good;Good;99192
+FRD_0594_X_Einlaufvib_Ge;Einlaufvib. Geschwindigkeit;06-APR-21 07:39:39.6;57;Good;Good;99193
+FRD_0594_X_Einlaufvib_Ge;Einlaufvib. Geschwindigkeit;06-APR-21 08:39:39.5;57;Good;Good;99194
+FRD_0594_X_Einlaufvib_Ge;Einlaufvib. Geschwindigkeit;06-APR-21 09:39:39.4;57;Good;Good;99195
+FRD_0594_X_Einlaufvib_Ge;Einlaufvib. Geschwindigkeit;06-APR-21 10:39:38.4;57;Good;Good;99196
+FRD_0594_X_Einlaufvib_Ge;Einlaufvib. Geschwindigkeit;06-APR-21 11:39:37.6;57;Good;Good;99197
+FRD_0594_X_Einlaufvib_Ge;Einlaufvib. Geschwindigkeit;06-APR-21 12:39:36.8;57;Good;Good;99198
+FRD_0594_X_Einlaufvib_Ge;Einlaufvib. Geschwindigkeit;06-APR-21 13:39:36.7;57;Good;Good;99199
+FRD_0594_X_Einlaufvib_Ge;Einlaufvib. Geschwindigkeit;06-APR-21 14:39:36.4;57;Good;Good;99200
+FRD_0594_X_Einlaufvib_Ge;Einlaufvib. Geschwindigkeit;06-APR-21 15:39:36.4;57;Good;Good;99201
+FRD_0594_X_Einlaufvib_Ge;Einlaufvib. Geschwindigkeit;06-APR-21 16:39:36.0;57;Good;Good;99202
+FRD_0594_X_Einlaufvib_Ge;Einlaufvib. Geschwindigkeit;06-APR-21 17:39:35.2;57;Good;Good;99203
+FRD_0594_X_Einlaufvib_Ge;Einlaufvib. Geschwindigkeit;06-APR-21 18:39:34.6;57;Good;Good;99204
+FRD_0594_X_Einlaufvib_Ge;Einlaufvib. Geschwindigkeit;06-APR-21 19:39:34.2;57;Good;Good;99205
+FRD_0594_X_Einlaufvib_Ge;Einlaufvib. Geschwindigkeit;06-APR-21 20:39:34.0;57;Good;Good;99206
+FRD_0594_X_Einlaufvib_Ge;Einlaufvib. Geschwindigkeit;06-APR-21 21:39:33.0;57;Good;Good;99207
+FRD_0594_X_Einlaufvib_Ge;Einlaufvib. Geschwindigkeit;06-APR-21 22:39:32.5;57;Good;Good;99208
+FRD_0594_X_Einlaufvib_Ge;Einlaufvib. Geschwindigkeit;06-APR-21 23:39:31.9;57;Good;Good;99209

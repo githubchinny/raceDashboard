@@ -1,0 +1,25 @@
+﻿Name;IP_Description;IP_TREND_TIME;IP_TREND_VALUE;IP_TREND_QLEVEL;IP_TREND_QSTATUS;HISTSEQNUM
+FRD_0594_X_Einlaufvib_f;Einlaufvib. Frequenz;06-APR-21 00:41:58.4;50,5;Good;Good;95319
+FRD_0594_X_Einlaufvib_f;Einlaufvib. Frequenz;06-APR-21 01:41:58.0;50,5;Good;Good;95320
+FRD_0594_X_Einlaufvib_f;Einlaufvib. Frequenz;06-APR-21 02:41:57.9;50,5;Good;Good;95321
+FRD_0594_X_Einlaufvib_f;Einlaufvib. Frequenz;06-APR-21 03:41:57.9;50,5;Good;Good;95322
+FRD_0594_X_Einlaufvib_f;Einlaufvib. Frequenz;06-APR-21 04:41:57.4;50,5;Good;Good;95323
+FRD_0594_X_Einlaufvib_f;Einlaufvib. Frequenz;06-APR-21 05:41:57.0;50,5;Good;Good;95324
+FRD_0594_X_Einlaufvib_f;Einlaufvib. Frequenz;06-APR-21 06:41:56.1;50,5;Good;Good;95325
+FRD_0594_X_Einlaufvib_f;Einlaufvib. Frequenz;06-APR-21 07:41:55.8;50,5;Good;Good;95326
+FRD_0594_X_Einlaufvib_f;Einlaufvib. Frequenz;06-APR-21 08:41:55.5;50,5;Good;Good;95327
+FRD_0594_X_Einlaufvib_f;Einlaufvib. Frequenz;06-APR-21 09:41:54.8;50,5;Good;Good;95328
+FRD_0594_X_Einlaufvib_f;Einlaufvib. Frequenz;06-APR-21 10:41:54.4;50,5;Good;Good;95329
+FRD_0594_X_Einlaufvib_f;Einlaufvib. Frequenz;06-APR-21 11:41:53.5;50,5;Good;Good;95330
+FRD_0594_X_Einlaufvib_f;Einlaufvib. Frequenz;06-APR-21 12:41:52.8;50,5;Good;Good;95331
+FRD_0594_X_Einlaufvib_f;Einlaufvib. Frequenz;06-APR-21 13:41:52.8;50,5;Good;Good;95332
+FRD_0594_X_Einlaufvib_f;Einlaufvib. Frequenz;06-APR-21 14:41:52.3;50,5;Good;Good;95333
+FRD_0594_X_Einlaufvib_f;Einlaufvib. Frequenz;06-APR-21 15:41:52.3;50,5;Good;Good;95334
+FRD_0594_X_Einlaufvib_f;Einlaufvib. Frequenz;06-APR-21 16:41:52.1;50,5;Good;Good;95335
+FRD_0594_X_Einlaufvib_f;Einlaufvib. Frequenz;06-APR-21 17:41:51.2;50,5;Good;Good;95336
+FRD_0594_X_Einlaufvib_f;Einlaufvib. Frequenz;06-APR-21 18:41:50.6;50,5;Good;Good;95337
+FRD_0594_X_Einlaufvib_f;Einlaufvib. Frequenz;06-APR-21 19:41:50.2;50,5;Good;Good;95338
+FRD_0594_X_Einlaufvib_f;Einlaufvib. Frequenz;06-APR-21 20:41:49.9;50,5;Good;Good;95339
+FRD_0594_X_Einlaufvib_f;Einlaufvib. Frequenz;06-APR-21 21:41:49.3;50,5;Good;Good;95340
+FRD_0594_X_Einlaufvib_f;Einlaufvib. Frequenz;06-APR-21 22:41:48.4;50,5;Good;Good;95341
+FRD_0594_X_Einlaufvib_f;Einlaufvib. Frequenz;06-APR-21 23:41:48.3;50,5;Good;Good;95342

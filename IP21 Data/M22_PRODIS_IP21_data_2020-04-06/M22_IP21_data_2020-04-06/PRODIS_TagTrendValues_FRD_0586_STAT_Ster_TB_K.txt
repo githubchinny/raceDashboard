@@ -1,0 +1,27 @@
+﻿Name;IP_Description;IP_TREND_TIME;IP_TREND_VALUE;IP_TREND_QLEVEL;IP_TREND_QSTATUS;HISTSEQNUM
+FRD_0586_STAT_Ster_TB_K;Status Steril Transportbehälter Kappen;06-APR-21 00:02:42.8;1;Good;Good;117001
+FRD_0586_STAT_Ster_TB_K;Status Steril Transportbehälter Kappen;06-APR-21 01:02:42.4;1;Good;Good;117002
+FRD_0586_STAT_Ster_TB_K;Status Steril Transportbehälter Kappen;06-APR-21 02:02:42.0;1;Good;Good;117003
+FRD_0586_STAT_Ster_TB_K;Status Steril Transportbehälter Kappen;06-APR-21 03:02:41.3;1;Good;Good;117004
+FRD_0586_STAT_Ster_TB_K;Status Steril Transportbehälter Kappen;06-APR-21 04:02:41.0;1;Good;Good;117005
+FRD_0586_STAT_Ster_TB_K;Status Steril Transportbehälter Kappen;06-APR-21 05:02:40.1;1;Good;Good;117006
+FRD_0586_STAT_Ster_TB_K;Status Steril Transportbehälter Kappen;06-APR-21 06:02:39.9;1;Good;Good;117007
+FRD_0586_STAT_Ster_TB_K;Status Steril Transportbehälter Kappen;06-APR-21 07:02:39.7;1;Good;Good;117008
+FRD_0586_STAT_Ster_TB_K;Status Steril Transportbehälter Kappen;06-APR-21 08:02:38.9;1;Good;Good;117009
+FRD_0586_STAT_Ster_TB_K;Status Steril Transportbehälter Kappen;06-APR-21 09:02:37.9;1;Good;Good;117010
+FRD_0586_STAT_Ster_TB_K;Status Steril Transportbehälter Kappen;06-APR-21 10:02:37.4;1;Good;Good;117011
+FRD_0586_STAT_Ster_TB_K;Status Steril Transportbehälter Kappen;06-APR-21 11:02:37.3;1;Good;Good;117012
+FRD_0586_STAT_Ster_TB_K;Status Steril Transportbehälter Kappen;06-APR-21 12:02:36.3;1;Good;Good;117013
+FRD_0586_STAT_Ster_TB_K;Status Steril Transportbehälter Kappen;06-APR-21 13:02:36.2;1;Good;Good;117014
+FRD_0586_STAT_Ster_TB_K;Status Steril Transportbehälter Kappen;06-APR-21 14:02:35.4;1;Good;Good;117015
+FRD_0586_STAT_Ster_TB_K;Status Steril Transportbehälter Kappen;06-APR-21 15:02:35.0;1;Good;Good;117016
+FRD_0586_STAT_Ster_TB_K;Status Steril Transportbehälter Kappen;06-APR-21 16:02:34.6;1;Good;Good;117017
+FRD_0586_STAT_Ster_TB_K;Status Steril Transportbehälter Kappen;06-APR-21 17:02:33.9;1;Good;Good;117018
+FRD_0586_STAT_Ster_TB_K;Status Steril Transportbehälter Kappen;06-APR-21 18:02:33.7;1;Good;Good;117019
+FRD_0586_STAT_Ster_TB_K;Status Steril Transportbehälter Kappen;06-APR-21 19:02:32.8;1;Good;Good;117020
+FRD_0586_STAT_Ster_TB_K;Status Steril Transportbehälter Kappen;06-APR-21 20:02:32.0;1;Good;Good;117021
+FRD_0586_STAT_Ster_TB_K;Status Steril Transportbehälter Kappen;06-APR-21 21:02:31.4;1;Good;Good;117022
+FRD_0586_STAT_Ster_TB_K;Status Steril Transportbehälter Kappen;06-APR-21 22:02:30.9;1;Good;Good;117023
+FRD_0586_STAT_Ster_TB_K;Status Steril Transportbehälter Kappen;06-APR-21 22:37:25.5;0;Good;Good;117024
+FRD_0586_STAT_Ster_TB_K;Status Steril Transportbehälter Kappen;06-APR-21 22:52:02.9;1;Good;Good;117025
+FRD_0586_STAT_Ster_TB_K;Status Steril Transportbehälter Kappen;06-APR-21 23:52:02.1;1;Good;Good;117026
