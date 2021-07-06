@@ -1,0 +1,271 @@
+{
+ "data": {
+  "_lastModified": 1625558792711,
+  "hasNameColumn": false,
+  "lastModified": 1625558792711,
+  "nameColumnPosition": 0,
+  "noCache": true,
+  "path": "C:\\Users\\mark_\\Documents\\McLaren2021\\Sanofi\\Race Dashboard data\\gapfinder_weekly.csv",
+  "reader": "ext-csv",
+  "sheet": "",
+  "timeInColumns": false,
+  "ddfPath": "C:\\Users\\mark_\\Documents\\McLaren2021\\Sanofi\\Race Dashboard data\\gapfinder_weekly.csv"
+ },
+ "locale": {
+  "filePath": "C:\\Users\\mark_\\AppData\\Local\\Programs\\Gapminder Offline\\assets\\translation",
+  "id": "en"
+ },
+ "state": {
+  "entities": {
+   "autoconfig": {
+    "excludeIDs": [
+     "tag"
+    ],
+    "type": "entity_domain"
+   },
+   "dim": "Line",
+   "filter": {},
+   "show": {},
+   "showFallback": {},
+   "showItemsMaxCount": null,
+   "skipFilter": false
+  },
+  "entities_colorlegend": {
+   "autoconfig": {
+    "excludeIDs": [
+     "tag"
+    ],
+    "type": "entity_domain"
+   },
+   "dim": "Line",
+   "filter": {},
+   "show": {},
+   "showFallback": {},
+   "showItemsMaxCount": null,
+   "skipFilter": false
+  },
+  "marker": {
+   "allowSelectMultiple": true,
+   "axis_x": {
+    "allow": {
+     "scales": [
+      "time"
+     ]
+    },
+    "autoconfig": {
+     "index": 0,
+     "type": "time"
+    },
+    "data": "data",
+    "domainMax": null,
+    "domainMin": null,
+    "fixBaseline": null,
+    "scaleType": "time",
+    "syncModels": [],
+    "use": "indicator",
+    "which": "Date",
+    "zoomedMax": null,
+    "zoomedMin": null
+   },
+   "axis_y": {
+    "allow": {
+     "scales": [
+      "linear",
+      "log"
+     ]
+    },
+    "autoconfig": {
+     "type": "measure"
+    },
+    "data": "data",
+    "domainMax": null,
+    "domainMin": null,
+    "fixBaseline": null,
+    "scaleType": "linear",
+    "spaceRef": null,
+    "syncModels": [],
+    "use": "indicator",
+    "which": "race_time",
+    "zoomedMax": 51,
+    "zoomedMin": 96
+   },
+   "color": {
+    "allow": {
+     "scales": [
+      "linear",
+      "log",
+      "genericLog",
+      "time",
+      "pow",
+      "ordinal"
+     ]
+    },
+    "autoconfig": {},
+    "data": "data",
+    "palette": {
+     "0": "#8c30e8",
+     "25": "#30a3e8",
+     "50": "#30e85e",
+     "75": "#e2c75a",
+     "100": "#e83030",
+     "_default": "#ffb600"
+    },
+    "paletteHiddenKeys": [],
+    "paletteLabels": null,
+    "scaleType": "linear",
+    "spaceRef": null,
+    "syncModels": [
+     "marker_colorlegend"
+    ],
+    "use": "indicator",
+    "which": "race_time"
+   },
+   "highlight": [],
+   "label": {
+    "autoconfig": {
+     "includeOnlyIDs": [
+      "name"
+     ],
+     "type": "string"
+    },
+    "data": "data",
+    "scaleType": "ordinal",
+    "syncModels": [],
+    "use": "property",
+    "which": "Line"
+   },
+   "limit": 5000,
+   "opacityHighlightDim": 0.1,
+   "opacityRegular": 1,
+   "opacitySelectDim": 0.3,
+   "select": [],
+   "space": [
+    "entities",
+    "time"
+   ],
+   "superHighlight": []
+  },
+  "marker_colorlegend": {
+   "allowSelectMultiple": true,
+   "highlight": [],
+   "hook_geoshape": {
+    "data": "data",
+    "syncModels": [],
+    "use": "property",
+    "which": "shape_lores_svg"
+   },
+   "hook_rank": {
+    "data": "data",
+    "syncModels": [],
+    "use": "property",
+    "which": "rank"
+   },
+   "label": {
+    "data": "data",
+    "syncModels": [],
+    "use": "property",
+    "which": "name"
+   },
+   "limit": 1000,
+   "opacityHighlightDim": 0.1,
+   "opacityRegular": 1,
+   "opacitySelectDim": 0.3,
+   "select": [],
+   "space": [
+    "entities_colorlegend"
+   ],
+   "superHighlight": []
+  },
+  "time": {
+   "autoconfig": {
+    "type": "time"
+   },
+   "delay": 127,
+   "delayThresholdX2": 90,
+   "delayThresholdX4": 45,
+   "dim": "Date",
+   "end": "20210704",
+   "endBeforeForecast": "20210705",
+   "endOrigin": null,
+   "endSelected": "20210704",
+   "format": {
+    "data": null,
+    "ui": null
+   },
+   "immediatePlay": true,
+   "loop": false,
+   "offset": 0,
+   "pauseBeforeForecast": true,
+   "playable": true,
+   "playing": false,
+   "record": false,
+   "round": "round",
+   "showForecast": true,
+   "start": "20210404",
+   "startOrigin": null,
+   "startSelected": "20210404",
+   "step": 1,
+   "unit": "day",
+   "value": "20210704"
+  }
+ },
+ "ui": {
+  "buttons": [
+   "colors",
+   "find",
+   "moreoptions",
+   "presentation",
+   "sidebarcollapse",
+   "fullscreen"
+  ],
+  "chart": {
+   "curve": "curveMonotoneX",
+   "labels": {
+    "min_number_of_entities_when_values_hide": 2
+   },
+   "showForecastOverlay": false,
+   "whenHovering": {
+    "hideVerticalNow": false,
+    "higlightValueX": true,
+    "higlightValueY": true,
+    "showProjectionLineX": true,
+    "showProjectionLineY": true,
+    "showTooltip": false
+   }
+  },
+  "datawarning": {
+   "doubtDomain": [],
+   "doubtRange": []
+  },
+  "dialogs": {
+   "dialog": {
+    "find": {
+     "enableSelectShowSwitch": false,
+     "panelMode": "show"
+    }
+   },
+   "moreoptions": [
+    "opacity",
+    "speed",
+    "axes",
+    "colors",
+    "presentation",
+    "technical",
+    "about"
+   ],
+   "popup": [
+    "colors",
+    "find",
+    "moreoptions"
+   ],
+   "sidebar": [
+    "colors",
+    "find"
+   ]
+  },
+  "presentation": false,
+  "sidebarCollapse": false,
+  "splash": false
+ },
+ "chartType": "LineChart"
+}
