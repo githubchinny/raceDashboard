@@ -1,8 +1,8 @@
 {
  "data": {
-  "_lastModified": 1625558792711,
+  "_lastModified": 1625659440077,
   "hasNameColumn": false,
-  "lastModified": 1625558792711,
+  "lastModified": 1625659440077,
   "nameColumnPosition": 0,
   "noCache": true,
   "path": "C:\\Users\\mark_\\Documents\\McLaren2021\\Sanofi\\Race Dashboard data\\gapfinder_weekly.csv",
@@ -180,12 +180,12 @@
    "autoconfig": {
     "type": "time"
    },
-   "delay": 127,
+   "delay": 100,
    "delayThresholdX2": 90,
    "delayThresholdX4": 45,
    "dim": "Date",
    "end": "20210704",
-   "endBeforeForecast": "20210705",
+   "endBeforeForecast": "20210706",
    "endOrigin": null,
    "endSelected": "20210704",
    "format": {
