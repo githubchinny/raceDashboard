@@ -8,26 +8,11 @@ import matplotlib.pyplot as plt
 
 # my modules
 import set_config
+from common_functions import create_df_from_file
 
 # call set_config
 dir_sanofi_share = set_config.ConfigSectionMap("SectionOne")['sanofi']
 dir_local = set_config.ConfigSectionMap("SectionOne")['local']
-
-# function to read in files we need into a generic df
-def create_df_from_file(indir, infolder, infilesearch):
-    folder = infolder
-    path = os.path.join(indir, folder)
-
-
-    df = []
-    df_created = pd.DataFrame()
-
-    # do a recursive search for the files now we have multiple dirs
-    for filename in iglob(path + '/**/*' + infilesearch + '*', recursive=True):
-        df = pd.read_csv(filename)
-        df_created = df_created.append(df)
-
-    return df_created
 
 
 def ORDER_files():
@@ -60,13 +45,26 @@ def ORDER_files():
 
     merge = pd.merge(df_36630901_ORDERNUMBER[['IP_TREND_TIME','36630901_ORDERNUMBER']], df_36630901_ZA_ORDERNUMBER[['IP_TREND_TIME','36630901_ZA_ORDERNUMBER']], on='IP_TREND_TIME')
     merge2 = pd.merge(merge, df_36650901_ORDERNUMBER[['IP_TREND_TIME','36650901_ORDERNUMBER']], on='IP_TREND_TIME', how='outer')
-    merge3 = pd.DataFrame({'start':merge2.index.iloc[::2].values, 'end':merge2.index.iloc[1::2].values, 'time_diff_mins':merge2.time_diff_mins.iloc[1::2].values})
-    for i, row in merge3.iterrows():
-        print (i, row[0], row[1])
+    # merge3 = pd.DataFrame({'start':merge2.IP_TREND_VALUE.iloc[::2].values, 'end':merge2.IP_TREND_VALUE.iloc[1::2].values, 'time_diff_mins':merge2.time_diff_mins.IP_TREND_VALUE.iloc[1::2].values})
 
     # %%
     merge2.sort_values('IP_TREND_TIME', inplace=True)
-    return merge2
+
+    df_BATCHID = create_df_from_file(dir_sanofi_share, folder, "_BATCHID.csv")
+    df_BATCHID['IP_TREND_TIME'] = pd.to_datetime(df_BATCHID['IP_TREND_TIME'], format='%d-%b-%y %H:%M:%S.%f')
+
+    df_MATNO = create_df_from_file(dir_sanofi_share, folder, "_MATNO.csv")
+    df_MATNO['IP_TREND_TIME'] = pd.to_datetime(df_MATNO['IP_TREND_TIME'], format='%d-%b-%y %H:%M:%S.%f')
+
+    merge3 = pd.merge(merge2, df_BATCHID[['IP_TREND_TIME','IP_TREND_VALUE']], left_on='IP_TREND_TIME', right_on='IP_TREND_TIME', how='left')
+    merge3.rename(columns={'IP_TREND_VALUE':'BATCH_ID'}, inplace=True)
+
+    merge4 = pd.merge(merge3, df_MATNO[['IP_TREND_TIME','IP_TREND_VALUE']], left_on='IP_TREND_TIME', right_on='IP_TREND_TIME', how='left')
+    merge4.rename(columns={'IP_TREND_VALUE':'BATCH_SIZE'}, inplace=True)
+
+    return merge4
+
+
 
 
 if __name__ == '__main__':
