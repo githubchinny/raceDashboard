@@ -102,7 +102,6 @@ def CNTR_Files():
     df_CNTR['counter_diff'].loc[df_CNTR.IP_TREND_VALUE < 0] = 0
     df_CNTR['counter_diff'].loc[(df_CNTR.counter_diff < 0) & (df_CNTR.IP_TREND_VALUE == 0)] = 0
 
-    df_CNTR.reset_index(inplace=True)
     df_CNTR.sort_values(['Name','IP_TREND_TIME'], inplace=True)
     df_CNTR['time_diff'] = df_CNTR.groupby('Name')['IP_TREND_TIME'].diff().dt.total_seconds()
     # df_CNTR.set_index('IP_TREND_TIME', inplace=True)
