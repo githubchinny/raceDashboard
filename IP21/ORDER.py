@@ -62,6 +62,9 @@ def ORDER_files():
     merge4 = pd.merge(merge3, df_MATNO[['IP_TREND_TIME','IP_TREND_VALUE']], left_on='IP_TREND_TIME', right_on='IP_TREND_TIME', how='left')
     merge4.rename(columns={'IP_TREND_VALUE':'BATCH_SIZE'}, inplace=True)
 
+    # keep only the last row and drop duplicates on ordernumber and batch_id
+    merge4.drop_duplicates(subset=['36630901_ORDERNUMBER','36630901_ZA_ORDERNUMBER','36650901_ORDERNUMBER','BATCH_ID'], keep='last', inplace=True)
+
     return merge4
 
 
