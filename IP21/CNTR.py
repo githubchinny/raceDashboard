@@ -91,7 +91,7 @@ def CNTR_Files():
     df_CNTR['time_diff'] = df_CNTR.groupby('Name')['IP_TREND_TIME'].diff().dt.total_seconds()
     # df_CNTR.set_index('IP_TREND_TIME', inplace=True)
 
-    # df_CNTR['units_per_sec'] = df_CNTR['counter_diff'] / df_CNTR['time_diff'] 
+    df_CNTR['units_per_sec'] = df_CNTR['counter_diff'] / df_CNTR['time_diff'] 
 
     return df_CNTR
 
